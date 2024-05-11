@@ -1,0 +1,33 @@
+.timer-option {
+  font-family:sans-serif;
+  width: 10rem;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.timer-option:hover {
+  background-color: rgba(84, 234, 54, 0.676);
+  cursor: pointer;
+}
+#custom-timer-input {
+  font-family:sans-serif;
+  display: none;
+  text-align: center;
+}
+.custom-input {
+  font-family:sans-serif;
+  width: 20%;
+}
+#done {
+  font-family:sans-serif;
+  background-color: rgb(242, 235, 207);
+  border-radius: 5rem;
+  border-color:rgba(84, 234, 54, 0.676) ;
+}
+#reset {
+  color: aliceblue;
+  font-family:sans-serif;
+  background-color: rgba(84, 234, 54, 0.676);
+  border-radius: 5rem;
+  border-color: rgb(242, 235, 207);;
+}
